@@ -1,0 +1,25 @@
+//
+//  BaiDuChuanKe.pch
+//  BaiDuChuanKe
+//
+//  Created by 思 彭 on 16/6/15.
+//  Copyright © 2016年 combanc. All rights reserved.
+//
+
+#ifndef BaiDuChuanKe_pch
+#define BaiDuChuanKe_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Public.h"
+#import "Constant.h"
+#import "SVProgressHUD.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+
+
+
+#endif /* BaiDuChuanKe_pch */
